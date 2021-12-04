@@ -3,11 +3,13 @@
     padding: 0;
     margin: 0;
 }
+    /* Body CSS */
 
 body {
     background-color: #d9dcd6;
 }
-
+    /* Header CSS */
+    
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +25,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
+    /* Navigation links */
 
 nav {
     padding-top: 15px;
@@ -50,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+    /* Hero formatting */ 
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +64,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+    /* Main contents */
 
 .content {
     width: 75%;
@@ -82,6 +90,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+    /* Right side bar */
 
 .benefits {
     margin-right: 20px;
@@ -110,6 +120,7 @@ p {
     max-width: 150px;
 }
 
+    /* Footer */
 .footer {
     padding: 30px;
     clear: both;
